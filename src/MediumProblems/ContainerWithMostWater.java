@@ -29,11 +29,8 @@ public class ContainerWithMostWater {
                 }
                 right--;
             }
-
         }
         System.out.println(maxArea);
-
-
 
         /*
         int left = 0;
