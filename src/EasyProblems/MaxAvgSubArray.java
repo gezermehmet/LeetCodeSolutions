@@ -25,3 +25,6 @@ public class MaxAvgSubArray {
         System.out.println(maxSum / k);
     }
 }
+
+
+
